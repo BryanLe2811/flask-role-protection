@@ -130,3 +130,6 @@ dmypy.json
 
 # database
 app.db
+
+# pycharm
+.idea
